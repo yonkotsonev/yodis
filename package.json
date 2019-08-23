@@ -1,0 +1,17 @@
+{
+  "name": "yodis",
+  "version": "1.0.0",
+  "description": "This is a datastructure db written in node as a learning project",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "database"
+  ],
+  "author": "Yonko Tsonev <jonkotzonev@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
