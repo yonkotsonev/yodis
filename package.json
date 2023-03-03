@@ -12,6 +12,6 @@
   "author": "Yonko Tsonev <jonkotzonev@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.2.3"
+    "mocha": "^10.2.0"
   }
 }
