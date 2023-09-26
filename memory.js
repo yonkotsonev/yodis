@@ -1,3 +1,4 @@
 module.exports = {
-    sets: {}
+    sets: {},
+    tries: {}
 }
